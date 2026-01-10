@@ -1,0 +1,1201 @@
+Year,State,Crime_Type,Crime_Count
+2010,Maharashtra,Murder,3442
+2010,Maharashtra,Rape,3940
+2010,Maharashtra,Theft,4701
+2010,Maharashtra,Robbery,3401
+2010,Maharashtra,Assault,4645
+2010,Maharashtra,Cyber Crime,632
+2010,Maharashtra,Kidnapping,3865
+2010,Maharashtra,Domestic Violence,2906
+2010,Delhi,Murder,2884
+2010,Delhi,Rape,4059
+2010,Delhi,Theft,2584
+2010,Delhi,Robbery,4839
+2010,Delhi,Assault,1578
+2010,Delhi,Cyber Crime,2273
+2010,Delhi,Kidnapping,3110
+2010,Delhi,Domestic Violence,2783
+2010,Uttar Pradesh,Murder,1502
+2010,Uttar Pradesh,Rape,2709
+2010,Uttar Pradesh,Theft,1207
+2010,Uttar Pradesh,Robbery,1831
+2010,Uttar Pradesh,Assault,3463
+2010,Uttar Pradesh,Cyber Crime,2966
+2010,Uttar Pradesh,Kidnapping,857
+2010,Uttar Pradesh,Domestic Violence,2805
+2010,Karnataka,Murder,1517
+2010,Karnataka,Rape,543
+2010,Karnataka,Theft,854
+2010,Karnataka,Robbery,1990
+2010,Karnataka,Assault,1450
+2010,Karnataka,Cyber Crime,599
+2010,Karnataka,Kidnapping,4518
+2010,Karnataka,Domestic Violence,1246
+2010,Tamil Nadu,Murder,1406
+2010,Tamil Nadu,Rape,3734
+2010,Tamil Nadu,Theft,2021
+2010,Tamil Nadu,Robbery,884
+2010,Tamil Nadu,Assault,2994
+2010,Tamil Nadu,Cyber Crime,4513
+2010,Tamil Nadu,Kidnapping,4736
+2010,Tamil Nadu,Domestic Violence,3246
+2010,Gujarat,Murder,3594
+2010,Gujarat,Rape,537
+2010,Gujarat,Theft,3322
+2010,Gujarat,Robbery,70
+2010,Gujarat,Assault,2010
+2010,Gujarat,Cyber Crime,3347
+2010,Gujarat,Kidnapping,4233
+2010,Gujarat,Domestic Violence,2116
+2010,Rajasthan,Murder,299
+2010,Rajasthan,Rape,2422
+2010,Rajasthan,Theft,4359
+2010,Rajasthan,Robbery,4398
+2010,Rajasthan,Assault,653
+2010,Rajasthan,Cyber Crime,2600
+2010,Rajasthan,Kidnapping,3080
+2010,Rajasthan,Domestic Violence,3458
+2010,Madhya Pradesh,Murder,3901
+2010,Madhya Pradesh,Rape,4277
+2010,Madhya Pradesh,Theft,4903
+2010,Madhya Pradesh,Robbery,2384
+2010,Madhya Pradesh,Assault,2896
+2010,Madhya Pradesh,Cyber Crime,76
+2010,Madhya Pradesh,Kidnapping,1660
+2010,Madhya Pradesh,Domestic Violence,1984
+2010,West Bengal,Murder,3726
+2010,West Bengal,Rape,3468
+2010,West Bengal,Theft,571
+2010,West Bengal,Robbery,527
+2010,West Bengal,Assault,1708
+2010,West Bengal,Cyber Crime,1589
+2010,West Bengal,Kidnapping,3327
+2010,West Bengal,Domestic Violence,4410
+2010,Bihar,Murder,1500
+2010,Bihar,Rape,3414
+2010,Bihar,Theft,4903
+2010,Bihar,Robbery,4646
+2010,Bihar,Assault,1694
+2010,Bihar,Cyber Crime,4707
+2010,Bihar,Kidnapping,2053
+2010,Bihar,Domestic Violence,4998
+2011,Maharashtra,Murder,3977
+2011,Maharashtra,Rape,4839
+2011,Maharashtra,Theft,638
+2011,Maharashtra,Robbery,378
+2011,Maharashtra,Assault,2221
+2011,Maharashtra,Cyber Crime,3202
+2011,Maharashtra,Kidnapping,1271
+2011,Maharashtra,Domestic Violence,3846
+2011,Delhi,Murder,949
+2011,Delhi,Rape,4170
+2011,Delhi,Theft,2159
+2011,Delhi,Robbery,4645
+2011,Delhi,Assault,4831
+2011,Delhi,Cyber Crime,2615
+2011,Delhi,Kidnapping,2105
+2011,Delhi,Domestic Violence,4519
+2011,Uttar Pradesh,Murder,3925
+2011,Uttar Pradesh,Rape,3278
+2011,Uttar Pradesh,Theft,2212
+2011,Uttar Pradesh,Robbery,4268
+2011,Uttar Pradesh,Assault,3337
+2011,Uttar Pradesh,Cyber Crime,2050
+2011,Uttar Pradesh,Kidnapping,1709
+2011,Uttar Pradesh,Domestic Violence,4560
+2011,Karnataka,Murder,1953
+2011,Karnataka,Rape,3815
+2011,Karnataka,Theft,871
+2011,Karnataka,Robbery,52
+2011,Karnataka,Assault,1598
+2011,Karnataka,Cyber Crime,3119
+2011,Karnataka,Kidnapping,4661
+2011,Karnataka,Domestic Violence,3371
+2011,Tamil Nadu,Murder,2440
+2011,Tamil Nadu,Rape,4223
+2011,Tamil Nadu,Theft,3604
+2011,Tamil Nadu,Robbery,2390
+2011,Tamil Nadu,Assault,4789
+2011,Tamil Nadu,Cyber Crime,4584
+2011,Tamil Nadu,Kidnapping,4001
+2011,Tamil Nadu,Domestic Violence,2383
+2011,Gujarat,Murder,871
+2011,Gujarat,Rape,189
+2011,Gujarat,Theft,1154
+2011,Gujarat,Robbery,4703
+2011,Gujarat,Assault,4881
+2011,Gujarat,Cyber Crime,2615
+2011,Gujarat,Kidnapping,3313
+2011,Gujarat,Domestic Violence,4715
+2011,Rajasthan,Murder,937
+2011,Rajasthan,Rape,2979
+2011,Rajasthan,Theft,1395
+2011,Rajasthan,Robbery,4876
+2011,Rajasthan,Assault,2756
+2011,Rajasthan,Cyber Crime,1834
+2011,Rajasthan,Kidnapping,4494
+2011,Rajasthan,Domestic Violence,644
+2011,Madhya Pradesh,Murder,2846
+2011,Madhya Pradesh,Rape,2797
+2011,Madhya Pradesh,Theft,1861
+2011,Madhya Pradesh,Robbery,4685
+2011,Madhya Pradesh,Assault,1224
+2011,Madhya Pradesh,Cyber Crime,2329
+2011,Madhya Pradesh,Kidnapping,2915
+2011,Madhya Pradesh,Domestic Violence,4550
+2011,West Bengal,Murder,2754
+2011,West Bengal,Rape,1509
+2011,West Bengal,Theft,466
+2011,West Bengal,Robbery,669
+2011,West Bengal,Assault,300
+2011,West Bengal,Cyber Crime,3001
+2011,West Bengal,Kidnapping,3909
+2011,West Bengal,Domestic Violence,3171
+2011,Bihar,Murder,1998
+2011,Bihar,Rape,3009
+2011,Bihar,Theft,4425
+2011,Bihar,Robbery,2958
+2011,Bihar,Assault,2634
+2011,Bihar,Cyber Crime,3459
+2011,Bihar,Kidnapping,1524
+2011,Bihar,Domestic Violence,4506
+2012,Maharashtra,Murder,3018
+2012,Maharashtra,Rape,2236
+2012,Maharashtra,Theft,131
+2012,Maharashtra,Robbery,2637
+2012,Maharashtra,Assault,1885
+2012,Maharashtra,Cyber Crime,3297
+2012,Maharashtra,Kidnapping,1658
+2012,Maharashtra,Domestic Violence,2718
+2012,Delhi,Murder,1470
+2012,Delhi,Rape,4290
+2012,Delhi,Theft,2949
+2012,Delhi,Robbery,3929
+2012,Delhi,Assault,4104
+2012,Delhi,Cyber Crime,4974
+2012,Delhi,Kidnapping,484
+2012,Delhi,Domestic Violence,3575
+2012,Uttar Pradesh,Murder,4120
+2012,Uttar Pradesh,Rape,3760
+2012,Uttar Pradesh,Theft,1981
+2012,Uttar Pradesh,Robbery,2798
+2012,Uttar Pradesh,Assault,1694
+2012,Uttar Pradesh,Cyber Crime,952
+2012,Uttar Pradesh,Kidnapping,3724
+2012,Uttar Pradesh,Domestic Violence,4252
+2012,Karnataka,Murder,368
+2012,Karnataka,Rape,305
+2012,Karnataka,Theft,110
+2012,Karnataka,Robbery,4126
+2012,Karnataka,Assault,2384
+2012,Karnataka,Cyber Crime,3859
+2012,Karnataka,Kidnapping,557
+2012,Karnataka,Domestic Violence,4408
+2012,Tamil Nadu,Murder,1001
+2012,Tamil Nadu,Rape,4074
+2012,Tamil Nadu,Theft,3292
+2012,Tamil Nadu,Robbery,3838
+2012,Tamil Nadu,Assault,2069
+2012,Tamil Nadu,Cyber Crime,3993
+2012,Tamil Nadu,Kidnapping,902
+2012,Tamil Nadu,Domestic Violence,2267
+2012,Gujarat,Murder,332
+2012,Gujarat,Rape,4404
+2012,Gujarat,Theft,1840
+2012,Gujarat,Robbery,4611
+2012,Gujarat,Assault,3294
+2012,Gujarat,Cyber Crime,3948
+2012,Gujarat,Kidnapping,2358
+2012,Gujarat,Domestic Violence,2369
+2012,Rajasthan,Murder,1317
+2012,Rajasthan,Rape,2628
+2012,Rajasthan,Theft,4787
+2012,Rajasthan,Robbery,3576
+2012,Rajasthan,Assault,4971
+2012,Rajasthan,Cyber Crime,500
+2012,Rajasthan,Kidnapping,198
+2012,Rajasthan,Domestic Violence,2125
+2012,Madhya Pradesh,Murder,459
+2012,Madhya Pradesh,Rape,1529
+2012,Madhya Pradesh,Theft,446
+2012,Madhya Pradesh,Robbery,735
+2012,Madhya Pradesh,Assault,4506
+2012,Madhya Pradesh,Cyber Crime,52
+2012,Madhya Pradesh,Kidnapping,535
+2012,Madhya Pradesh,Domestic Violence,2697
+2012,West Bengal,Murder,3271
+2012,West Bengal,Rape,1142
+2012,West Bengal,Theft,3631
+2012,West Bengal,Robbery,270
+2012,West Bengal,Assault,2618
+2012,West Bengal,Cyber Crime,956
+2012,West Bengal,Kidnapping,4128
+2012,West Bengal,Domestic Violence,3392
+2012,Bihar,Murder,4097
+2012,Bihar,Rape,977
+2012,Bihar,Theft,3041
+2012,Bihar,Robbery,1643
+2012,Bihar,Assault,1485
+2012,Bihar,Cyber Crime,1505
+2012,Bihar,Kidnapping,4978
+2012,Bihar,Domestic Violence,4695
+2013,Maharashtra,Murder,4741
+2013,Maharashtra,Rape,3150
+2013,Maharashtra,Theft,4649
+2013,Maharashtra,Robbery,3244
+2013,Maharashtra,Assault,1467
+2013,Maharashtra,Cyber Crime,2815
+2013,Maharashtra,Kidnapping,1567
+2013,Maharashtra,Domestic Violence,846
+2013,Delhi,Murder,3885
+2013,Delhi,Rape,4623
+2013,Delhi,Theft,3501
+2013,Delhi,Robbery,4087
+2013,Delhi,Assault,1101
+2013,Delhi,Cyber Crime,1213
+2013,Delhi,Kidnapping,3331
+2013,Delhi,Domestic Violence,3895
+2013,Uttar Pradesh,Murder,2142
+2013,Uttar Pradesh,Rape,1706
+2013,Uttar Pradesh,Theft,3752
+2013,Uttar Pradesh,Robbery,869
+2013,Uttar Pradesh,Assault,3289
+2013,Uttar Pradesh,Cyber Crime,4709
+2013,Uttar Pradesh,Kidnapping,1553
+2013,Uttar Pradesh,Domestic Violence,4437
+2013,Karnataka,Murder,4864
+2013,Karnataka,Rape,3757
+2013,Karnataka,Theft,4309
+2013,Karnataka,Robbery,953
+2013,Karnataka,Assault,2131
+2013,Karnataka,Cyber Crime,857
+2013,Karnataka,Kidnapping,1174
+2013,Karnataka,Domestic Violence,4732
+2013,Tamil Nadu,Murder,1816
+2013,Tamil Nadu,Rape,746
+2013,Tamil Nadu,Theft,2927
+2013,Tamil Nadu,Robbery,4112
+2013,Tamil Nadu,Assault,2278
+2013,Tamil Nadu,Cyber Crime,2713
+2013,Tamil Nadu,Kidnapping,656
+2013,Tamil Nadu,Domestic Violence,3339
+2013,Gujarat,Murder,2042
+2013,Gujarat,Rape,1071
+2013,Gujarat,Theft,1786
+2013,Gujarat,Robbery,4445
+2013,Gujarat,Assault,1930
+2013,Gujarat,Cyber Crime,3588
+2013,Gujarat,Kidnapping,2431
+2013,Gujarat,Domestic Violence,2256
+2013,Rajasthan,Murder,1635
+2013,Rajasthan,Rape,1932
+2013,Rajasthan,Theft,2860
+2013,Rajasthan,Robbery,1089
+2013,Rajasthan,Assault,897
+2013,Rajasthan,Cyber Crime,1191
+2013,Rajasthan,Kidnapping,4024
+2013,Rajasthan,Domestic Violence,153
+2013,Madhya Pradesh,Murder,3144
+2013,Madhya Pradesh,Rape,954
+2013,Madhya Pradesh,Theft,4409
+2013,Madhya Pradesh,Robbery,4722
+2013,Madhya Pradesh,Assault,2867
+2013,Madhya Pradesh,Cyber Crime,1475
+2013,Madhya Pradesh,Kidnapping,3934
+2013,Madhya Pradesh,Domestic Violence,4519
+2013,West Bengal,Murder,982
+2013,West Bengal,Rape,1549
+2013,West Bengal,Theft,1079
+2013,West Bengal,Robbery,2402
+2013,West Bengal,Assault,2607
+2013,West Bengal,Cyber Crime,931
+2013,West Bengal,Kidnapping,2519
+2013,West Bengal,Domestic Violence,4209
+2013,Bihar,Murder,3721
+2013,Bihar,Rape,3002
+2013,Bihar,Theft,4409
+2013,Bihar,Robbery,4625
+2013,Bihar,Assault,2488
+2013,Bihar,Cyber Crime,2236
+2013,Bihar,Kidnapping,89
+2013,Bihar,Domestic Violence,2460
+2014,Maharashtra,Murder,3684
+2014,Maharashtra,Rape,184
+2014,Maharashtra,Theft,1817
+2014,Maharashtra,Robbery,3063
+2014,Maharashtra,Assault,2294
+2014,Maharashtra,Cyber Crime,4923
+2014,Maharashtra,Kidnapping,1608
+2014,Maharashtra,Domestic Violence,3666
+2014,Delhi,Murder,3281
+2014,Delhi,Rape,1897
+2014,Delhi,Theft,739
+2014,Delhi,Robbery,2404
+2014,Delhi,Assault,3991
+2014,Delhi,Cyber Crime,1492
+2014,Delhi,Kidnapping,2867
+2014,Delhi,Domestic Violence,1461
+2014,Uttar Pradesh,Murder,2190
+2014,Uttar Pradesh,Rape,2707
+2014,Uttar Pradesh,Theft,3457
+2014,Uttar Pradesh,Robbery,1571
+2014,Uttar Pradesh,Assault,3712
+2014,Uttar Pradesh,Cyber Crime,785
+2014,Uttar Pradesh,Kidnapping,3846
+2014,Uttar Pradesh,Domestic Violence,1896
+2014,Karnataka,Murder,3561
+2014,Karnataka,Rape,677
+2014,Karnataka,Theft,306
+2014,Karnataka,Robbery,938
+2014,Karnataka,Assault,776
+2014,Karnataka,Cyber Crime,493
+2014,Karnataka,Kidnapping,233
+2014,Karnataka,Domestic Violence,4787
+2014,Tamil Nadu,Murder,2631
+2014,Tamil Nadu,Rape,173
+2014,Tamil Nadu,Theft,4066
+2014,Tamil Nadu,Robbery,1221
+2014,Tamil Nadu,Assault,61
+2014,Tamil Nadu,Cyber Crime,4833
+2014,Tamil Nadu,Kidnapping,2931
+2014,Tamil Nadu,Domestic Violence,2158
+2014,Gujarat,Murder,4526
+2014,Gujarat,Rape,2221
+2014,Gujarat,Theft,4637
+2014,Gujarat,Robbery,1810
+2014,Gujarat,Assault,1618
+2014,Gujarat,Cyber Crime,3431
+2014,Gujarat,Kidnapping,2784
+2014,Gujarat,Domestic Violence,4272
+2014,Rajasthan,Murder,530
+2014,Rajasthan,Rape,1420
+2014,Rajasthan,Theft,2187
+2014,Rajasthan,Robbery,316
+2014,Rajasthan,Assault,2407
+2014,Rajasthan,Cyber Crime,4347
+2014,Rajasthan,Kidnapping,369
+2014,Rajasthan,Domestic Violence,3451
+2014,Madhya Pradesh,Murder,1230
+2014,Madhya Pradesh,Rape,4889
+2014,Madhya Pradesh,Theft,3657
+2014,Madhya Pradesh,Robbery,1938
+2014,Madhya Pradesh,Assault,976
+2014,Madhya Pradesh,Cyber Crime,1209
+2014,Madhya Pradesh,Kidnapping,2759
+2014,Madhya Pradesh,Domestic Violence,1670
+2014,West Bengal,Murder,1920
+2014,West Bengal,Rape,422
+2014,West Bengal,Theft,90
+2014,West Bengal,Robbery,1618
+2014,West Bengal,Assault,1326
+2014,West Bengal,Cyber Crime,1055
+2014,West Bengal,Kidnapping,987
+2014,West Bengal,Domestic Violence,2348
+2014,Bihar,Murder,269
+2014,Bihar,Rape,1122
+2014,Bihar,Theft,2528
+2014,Bihar,Robbery,2324
+2014,Bihar,Assault,4104
+2014,Bihar,Cyber Crime,2505
+2014,Bihar,Kidnapping,4160
+2014,Bihar,Domestic Violence,3993
+2015,Maharashtra,Murder,2924
+2015,Maharashtra,Rape,2443
+2015,Maharashtra,Theft,2094
+2015,Maharashtra,Robbery,3014
+2015,Maharashtra,Assault,718
+2015,Maharashtra,Cyber Crime,1016
+2015,Maharashtra,Kidnapping,2099
+2015,Maharashtra,Domestic Violence,4976
+2015,Delhi,Murder,4985
+2015,Delhi,Rape,3816
+2015,Delhi,Theft,2094
+2015,Delhi,Robbery,2352
+2015,Delhi,Assault,345
+2015,Delhi,Cyber Crime,3127
+2015,Delhi,Kidnapping,4463
+2015,Delhi,Domestic Violence,3900
+2015,Uttar Pradesh,Murder,629
+2015,Uttar Pradesh,Rape,1690
+2015,Uttar Pradesh,Theft,4035
+2015,Uttar Pradesh,Robbery,230
+2015,Uttar Pradesh,Assault,3811
+2015,Uttar Pradesh,Cyber Crime,3500
+2015,Uttar Pradesh,Kidnapping,1595
+2015,Uttar Pradesh,Domestic Violence,753
+2015,Karnataka,Murder,4125
+2015,Karnataka,Rape,2113
+2015,Karnataka,Theft,2571
+2015,Karnataka,Robbery,1404
+2015,Karnataka,Assault,962
+2015,Karnataka,Cyber Crime,2160
+2015,Karnataka,Kidnapping,3253
+2015,Karnataka,Domestic Violence,1781
+2015,Tamil Nadu,Murder,1902
+2015,Tamil Nadu,Rape,3836
+2015,Tamil Nadu,Theft,3924
+2015,Tamil Nadu,Robbery,1011
+2015,Tamil Nadu,Assault,2527
+2015,Tamil Nadu,Cyber Crime,4394
+2015,Tamil Nadu,Kidnapping,3193
+2015,Tamil Nadu,Domestic Violence,4864
+2015,Gujarat,Murder,3636
+2015,Gujarat,Rape,3401
+2015,Gujarat,Theft,4404
+2015,Gujarat,Robbery,2816
+2015,Gujarat,Assault,2507
+2015,Gujarat,Cyber Crime,4795
+2015,Gujarat,Kidnapping,196
+2015,Gujarat,Domestic Violence,1893
+2015,Rajasthan,Murder,683
+2015,Rajasthan,Rape,4164
+2015,Rajasthan,Theft,4288
+2015,Rajasthan,Robbery,2734
+2015,Rajasthan,Assault,1502
+2015,Rajasthan,Cyber Crime,1301
+2015,Rajasthan,Kidnapping,4558
+2015,Rajasthan,Domestic Violence,1691
+2015,Madhya Pradesh,Murder,4201
+2015,Madhya Pradesh,Rape,2071
+2015,Madhya Pradesh,Theft,1894
+2015,Madhya Pradesh,Robbery,51
+2015,Madhya Pradesh,Assault,434
+2015,Madhya Pradesh,Cyber Crime,2714
+2015,Madhya Pradesh,Kidnapping,2354
+2015,Madhya Pradesh,Domestic Violence,4801
+2015,West Bengal,Murder,1550
+2015,West Bengal,Rape,2175
+2015,West Bengal,Theft,1326
+2015,West Bengal,Robbery,4359
+2015,West Bengal,Assault,465
+2015,West Bengal,Cyber Crime,4891
+2015,West Bengal,Kidnapping,209
+2015,West Bengal,Domestic Violence,2664
+2015,Bihar,Murder,1249
+2015,Bihar,Rape,4308
+2015,Bihar,Theft,4932
+2015,Bihar,Robbery,2054
+2015,Bihar,Assault,3858
+2015,Bihar,Cyber Crime,1521
+2015,Bihar,Kidnapping,2617
+2015,Bihar,Domestic Violence,3538
+2016,Maharashtra,Murder,456
+2016,Maharashtra,Rape,2842
+2016,Maharashtra,Theft,1667
+2016,Maharashtra,Robbery,1152
+2016,Maharashtra,Assault,3524
+2016,Maharashtra,Cyber Crime,4546
+2016,Maharashtra,Kidnapping,769
+2016,Maharashtra,Domestic Violence,3973
+2016,Delhi,Murder,1847
+2016,Delhi,Rape,664
+2016,Delhi,Theft,461
+2016,Delhi,Robbery,157
+2016,Delhi,Assault,2267
+2016,Delhi,Cyber Crime,291
+2016,Delhi,Kidnapping,3722
+2016,Delhi,Domestic Violence,3635
+2016,Uttar Pradesh,Murder,1544
+2016,Uttar Pradesh,Rape,470
+2016,Uttar Pradesh,Theft,446
+2016,Uttar Pradesh,Robbery,4558
+2016,Uttar Pradesh,Assault,2222
+2016,Uttar Pradesh,Cyber Crime,2262
+2016,Uttar Pradesh,Kidnapping,4292
+2016,Uttar Pradesh,Domestic Violence,106
+2016,Karnataka,Murder,4628
+2016,Karnataka,Rape,735
+2016,Karnataka,Theft,308
+2016,Karnataka,Robbery,380
+2016,Karnataka,Assault,3907
+2016,Karnataka,Cyber Crime,1189
+2016,Karnataka,Kidnapping,1832
+2016,Karnataka,Domestic Violence,887
+2016,Tamil Nadu,Murder,175
+2016,Tamil Nadu,Rape,942
+2016,Tamil Nadu,Theft,1983
+2016,Tamil Nadu,Robbery,2603
+2016,Tamil Nadu,Assault,3209
+2016,Tamil Nadu,Cyber Crime,4380
+2016,Tamil Nadu,Kidnapping,4195
+2016,Tamil Nadu,Domestic Violence,1090
+2016,Gujarat,Murder,1631
+2016,Gujarat,Rape,3273
+2016,Gujarat,Theft,2433
+2016,Gujarat,Robbery,955
+2016,Gujarat,Assault,4086
+2016,Gujarat,Cyber Crime,2153
+2016,Gujarat,Kidnapping,1463
+2016,Gujarat,Domestic Violence,2098
+2016,Rajasthan,Murder,4522
+2016,Rajasthan,Rape,2362
+2016,Rajasthan,Theft,775
+2016,Rajasthan,Robbery,4095
+2016,Rajasthan,Assault,772
+2016,Rajasthan,Cyber Crime,2890
+2016,Rajasthan,Kidnapping,4854
+2016,Rajasthan,Domestic Violence,3876
+2016,Madhya Pradesh,Murder,2947
+2016,Madhya Pradesh,Rape,4846
+2016,Madhya Pradesh,Theft,2146
+2016,Madhya Pradesh,Robbery,3429
+2016,Madhya Pradesh,Assault,422
+2016,Madhya Pradesh,Cyber Crime,1506
+2016,Madhya Pradesh,Kidnapping,2883
+2016,Madhya Pradesh,Domestic Violence,3336
+2016,West Bengal,Murder,3631
+2016,West Bengal,Rape,4918
+2016,West Bengal,Theft,4310
+2016,West Bengal,Robbery,2660
+2016,West Bengal,Assault,2927
+2016,West Bengal,Cyber Crime,2372
+2016,West Bengal,Kidnapping,162
+2016,West Bengal,Domestic Violence,4364
+2016,Bihar,Murder,4418
+2016,Bihar,Rape,1172
+2016,Bihar,Theft,4252
+2016,Bihar,Robbery,1001
+2016,Bihar,Assault,336
+2016,Bihar,Cyber Crime,4121
+2016,Bihar,Kidnapping,1968
+2016,Bihar,Domestic Violence,4427
+2017,Maharashtra,Murder,4558
+2017,Maharashtra,Rape,1450
+2017,Maharashtra,Theft,1329
+2017,Maharashtra,Robbery,4438
+2017,Maharashtra,Assault,245
+2017,Maharashtra,Cyber Crime,4760
+2017,Maharashtra,Kidnapping,2185
+2017,Maharashtra,Domestic Violence,364
+2017,Delhi,Murder,2978
+2017,Delhi,Rape,933
+2017,Delhi,Theft,1351
+2017,Delhi,Robbery,2770
+2017,Delhi,Assault,913
+2017,Delhi,Cyber Crime,665
+2017,Delhi,Kidnapping,2093
+2017,Delhi,Domestic Violence,67
+2017,Uttar Pradesh,Murder,2982
+2017,Uttar Pradesh,Rape,3852
+2017,Uttar Pradesh,Theft,3176
+2017,Uttar Pradesh,Robbery,2466
+2017,Uttar Pradesh,Assault,4484
+2017,Uttar Pradesh,Cyber Crime,4170
+2017,Uttar Pradesh,Kidnapping,3686
+2017,Uttar Pradesh,Domestic Violence,3227
+2017,Karnataka,Murder,4233
+2017,Karnataka,Rape,3471
+2017,Karnataka,Theft,1319
+2017,Karnataka,Robbery,2606
+2017,Karnataka,Assault,3481
+2017,Karnataka,Cyber Crime,2179
+2017,Karnataka,Kidnapping,4164
+2017,Karnataka,Domestic Violence,1091
+2017,Tamil Nadu,Murder,2445
+2017,Tamil Nadu,Rape,1524
+2017,Tamil Nadu,Theft,170
+2017,Tamil Nadu,Robbery,4190
+2017,Tamil Nadu,Assault,3212
+2017,Tamil Nadu,Cyber Crime,4231
+2017,Tamil Nadu,Kidnapping,4574
+2017,Tamil Nadu,Domestic Violence,1216
+2017,Gujarat,Murder,2858
+2017,Gujarat,Rape,1493
+2017,Gujarat,Theft,823
+2017,Gujarat,Robbery,2922
+2017,Gujarat,Assault,4003
+2017,Gujarat,Cyber Crime,4640
+2017,Gujarat,Kidnapping,3070
+2017,Gujarat,Domestic Violence,1640
+2017,Rajasthan,Murder,4805
+2017,Rajasthan,Rape,4122
+2017,Rajasthan,Theft,2844
+2017,Rajasthan,Robbery,1311
+2017,Rajasthan,Assault,3269
+2017,Rajasthan,Cyber Crime,2021
+2017,Rajasthan,Kidnapping,1745
+2017,Rajasthan,Domestic Violence,3269
+2017,Madhya Pradesh,Murder,4608
+2017,Madhya Pradesh,Rape,1034
+2017,Madhya Pradesh,Theft,4723
+2017,Madhya Pradesh,Robbery,3845
+2017,Madhya Pradesh,Assault,1159
+2017,Madhya Pradesh,Cyber Crime,2325
+2017,Madhya Pradesh,Kidnapping,1695
+2017,Madhya Pradesh,Domestic Violence,258
+2017,West Bengal,Murder,1813
+2017,West Bengal,Rape,2324
+2017,West Bengal,Theft,782
+2017,West Bengal,Robbery,2390
+2017,West Bengal,Assault,1845
+2017,West Bengal,Cyber Crime,120
+2017,West Bengal,Kidnapping,1042
+2017,West Bengal,Domestic Violence,1186
+2017,Bihar,Murder,495
+2017,Bihar,Rape,1873
+2017,Bihar,Theft,2167
+2017,Bihar,Robbery,3235
+2017,Bihar,Assault,3636
+2017,Bihar,Cyber Crime,742
+2017,Bihar,Kidnapping,3715
+2017,Bihar,Domestic Violence,2866
+2018,Maharashtra,Murder,2501
+2018,Maharashtra,Rape,4280
+2018,Maharashtra,Theft,2236
+2018,Maharashtra,Robbery,1089
+2018,Maharashtra,Assault,1554
+2018,Maharashtra,Cyber Crime,4226
+2018,Maharashtra,Kidnapping,4546
+2018,Maharashtra,Domestic Violence,2069
+2018,Delhi,Murder,350
+2018,Delhi,Rape,811
+2018,Delhi,Theft,653
+2018,Delhi,Robbery,68
+2018,Delhi,Assault,4312
+2018,Delhi,Cyber Crime,4580
+2018,Delhi,Kidnapping,2301
+2018,Delhi,Domestic Violence,4518
+2018,Uttar Pradesh,Murder,1523
+2018,Uttar Pradesh,Rape,2729
+2018,Uttar Pradesh,Theft,2748
+2018,Uttar Pradesh,Robbery,1304
+2018,Uttar Pradesh,Assault,4970
+2018,Uttar Pradesh,Cyber Crime,1786
+2018,Uttar Pradesh,Kidnapping,3594
+2018,Uttar Pradesh,Domestic Violence,3778
+2018,Karnataka,Murder,2462
+2018,Karnataka,Rape,491
+2018,Karnataka,Theft,2261
+2018,Karnataka,Robbery,4253
+2018,Karnataka,Assault,1151
+2018,Karnataka,Cyber Crime,1474
+2018,Karnataka,Kidnapping,3140
+2018,Karnataka,Domestic Violence,1455
+2018,Tamil Nadu,Murder,694
+2018,Tamil Nadu,Rape,5000
+2018,Tamil Nadu,Theft,4121
+2018,Tamil Nadu,Robbery,1487
+2018,Tamil Nadu,Assault,4980
+2018,Tamil Nadu,Cyber Crime,3356
+2018,Tamil Nadu,Kidnapping,4311
+2018,Tamil Nadu,Domestic Violence,3675
+2018,Gujarat,Murder,2613
+2018,Gujarat,Rape,4189
+2018,Gujarat,Theft,681
+2018,Gujarat,Robbery,879
+2018,Gujarat,Assault,4912
+2018,Gujarat,Cyber Crime,1541
+2018,Gujarat,Kidnapping,4693
+2018,Gujarat,Domestic Violence,2898
+2018,Rajasthan,Murder,4431
+2018,Rajasthan,Rape,1154
+2018,Rajasthan,Theft,4607
+2018,Rajasthan,Robbery,4747
+2018,Rajasthan,Assault,1153
+2018,Rajasthan,Cyber Crime,2117
+2018,Rajasthan,Kidnapping,458
+2018,Rajasthan,Domestic Violence,4331
+2018,Madhya Pradesh,Murder,1682
+2018,Madhya Pradesh,Rape,1028
+2018,Madhya Pradesh,Theft,4431
+2018,Madhya Pradesh,Robbery,2173
+2018,Madhya Pradesh,Assault,3116
+2018,Madhya Pradesh,Cyber Crime,3924
+2018,Madhya Pradesh,Kidnapping,3749
+2018,Madhya Pradesh,Domestic Violence,3501
+2018,West Bengal,Murder,1351
+2018,West Bengal,Rape,3882
+2018,West Bengal,Theft,4159
+2018,West Bengal,Robbery,4167
+2018,West Bengal,Assault,3717
+2018,West Bengal,Cyber Crime,1202
+2018,West Bengal,Kidnapping,1526
+2018,West Bengal,Domestic Violence,3757
+2018,Bihar,Murder,1906
+2018,Bihar,Rape,4138
+2018,Bihar,Theft,177
+2018,Bihar,Robbery,3339
+2018,Bihar,Assault,920
+2018,Bihar,Cyber Crime,2970
+2018,Bihar,Kidnapping,1725
+2018,Bihar,Domestic Violence,2625
+2019,Maharashtra,Murder,1309
+2019,Maharashtra,Rape,4263
+2019,Maharashtra,Theft,1384
+2019,Maharashtra,Robbery,3605
+2019,Maharashtra,Assault,2729
+2019,Maharashtra,Cyber Crime,140
+2019,Maharashtra,Kidnapping,2973
+2019,Maharashtra,Domestic Violence,4439
+2019,Delhi,Murder,1978
+2019,Delhi,Rape,2144
+2019,Delhi,Theft,3216
+2019,Delhi,Robbery,3841
+2019,Delhi,Assault,1513
+2019,Delhi,Cyber Crime,2209
+2019,Delhi,Kidnapping,1347
+2019,Delhi,Domestic Violence,1221
+2019,Uttar Pradesh,Murder,3829
+2019,Uttar Pradesh,Rape,1767
+2019,Uttar Pradesh,Theft,1663
+2019,Uttar Pradesh,Robbery,3272
+2019,Uttar Pradesh,Assault,4812
+2019,Uttar Pradesh,Cyber Crime,3570
+2019,Uttar Pradesh,Kidnapping,2544
+2019,Uttar Pradesh,Domestic Violence,2505
+2019,Karnataka,Murder,2633
+2019,Karnataka,Rape,2832
+2019,Karnataka,Theft,1219
+2019,Karnataka,Robbery,2042
+2019,Karnataka,Assault,4747
+2019,Karnataka,Cyber Crime,1830
+2019,Karnataka,Kidnapping,3096
+2019,Karnataka,Domestic Violence,2222
+2019,Tamil Nadu,Murder,2037
+2019,Tamil Nadu,Rape,2998
+2019,Tamil Nadu,Theft,2389
+2019,Tamil Nadu,Robbery,1984
+2019,Tamil Nadu,Assault,449
+2019,Tamil Nadu,Cyber Crime,51
+2019,Tamil Nadu,Kidnapping,714
+2019,Tamil Nadu,Domestic Violence,2493
+2019,Gujarat,Murder,2373
+2019,Gujarat,Rape,3472
+2019,Gujarat,Theft,4925
+2019,Gujarat,Robbery,2330
+2019,Gujarat,Assault,1914
+2019,Gujarat,Cyber Crime,2284
+2019,Gujarat,Kidnapping,3801
+2019,Gujarat,Domestic Violence,2025
+2019,Rajasthan,Murder,816
+2019,Rajasthan,Rape,907
+2019,Rajasthan,Theft,3476
+2019,Rajasthan,Robbery,632
+2019,Rajasthan,Assault,167
+2019,Rajasthan,Cyber Crime,3131
+2019,Rajasthan,Kidnapping,4627
+2019,Rajasthan,Domestic Violence,4826
+2019,Madhya Pradesh,Murder,4170
+2019,Madhya Pradesh,Rape,1718
+2019,Madhya Pradesh,Theft,2786
+2019,Madhya Pradesh,Robbery,3754
+2019,Madhya Pradesh,Assault,3929
+2019,Madhya Pradesh,Cyber Crime,863
+2019,Madhya Pradesh,Kidnapping,234
+2019,Madhya Pradesh,Domestic Violence,3518
+2019,West Bengal,Murder,1580
+2019,West Bengal,Rape,1947
+2019,West Bengal,Theft,743
+2019,West Bengal,Robbery,1593
+2019,West Bengal,Assault,4664
+2019,West Bengal,Cyber Crime,1598
+2019,West Bengal,Kidnapping,3495
+2019,West Bengal,Domestic Violence,1500
+2019,Bihar,Murder,1269
+2019,Bihar,Rape,4443
+2019,Bihar,Theft,3857
+2019,Bihar,Robbery,846
+2019,Bihar,Assault,4295
+2019,Bihar,Cyber Crime,4464
+2019,Bihar,Kidnapping,694
+2019,Bihar,Domestic Violence,3826
+2020,Maharashtra,Murder,1588
+2020,Maharashtra,Rape,836
+2020,Maharashtra,Theft,4839
+2020,Maharashtra,Robbery,522
+2020,Maharashtra,Assault,4772
+2020,Maharashtra,Cyber Crime,606
+2020,Maharashtra,Kidnapping,2761
+2020,Maharashtra,Domestic Violence,1384
+2020,Delhi,Murder,357
+2020,Delhi,Rape,470
+2020,Delhi,Theft,4049
+2020,Delhi,Robbery,1488
+2020,Delhi,Assault,1845
+2020,Delhi,Cyber Crime,1871
+2020,Delhi,Kidnapping,1089
+2020,Delhi,Domestic Violence,3399
+2020,Uttar Pradesh,Murder,3380
+2020,Uttar Pradesh,Rape,1705
+2020,Uttar Pradesh,Theft,1528
+2020,Uttar Pradesh,Robbery,1532
+2020,Uttar Pradesh,Assault,2861
+2020,Uttar Pradesh,Cyber Crime,3794
+2020,Uttar Pradesh,Kidnapping,4790
+2020,Uttar Pradesh,Domestic Violence,840
+2020,Karnataka,Murder,1356
+2020,Karnataka,Rape,2084
+2020,Karnataka,Theft,1359
+2020,Karnataka,Robbery,2798
+2020,Karnataka,Assault,235
+2020,Karnataka,Cyber Crime,1878
+2020,Karnataka,Kidnapping,4913
+2020,Karnataka,Domestic Violence,133
+2020,Tamil Nadu,Murder,453
+2020,Tamil Nadu,Rape,2066
+2020,Tamil Nadu,Theft,3663
+2020,Tamil Nadu,Robbery,2050
+2020,Tamil Nadu,Assault,711
+2020,Tamil Nadu,Cyber Crime,2444
+2020,Tamil Nadu,Kidnapping,3453
+2020,Tamil Nadu,Domestic Violence,4972
+2020,Gujarat,Murder,612
+2020,Gujarat,Rape,930
+2020,Gujarat,Theft,4957
+2020,Gujarat,Robbery,3909
+2020,Gujarat,Assault,2781
+2020,Gujarat,Cyber Crime,3352
+2020,Gujarat,Kidnapping,1607
+2020,Gujarat,Domestic Violence,4823
+2020,Rajasthan,Murder,3582
+2020,Rajasthan,Rape,510
+2020,Rajasthan,Theft,930
+2020,Rajasthan,Robbery,3199
+2020,Rajasthan,Assault,4575
+2020,Rajasthan,Cyber Crime,301
+2020,Rajasthan,Kidnapping,2242
+2020,Rajasthan,Domestic Violence,3630
+2020,Madhya Pradesh,Murder,4901
+2020,Madhya Pradesh,Rape,3811
+2020,Madhya Pradesh,Theft,2769
+2020,Madhya Pradesh,Robbery,3267
+2020,Madhya Pradesh,Assault,1803
+2020,Madhya Pradesh,Cyber Crime,3178
+2020,Madhya Pradesh,Kidnapping,720
+2020,Madhya Pradesh,Domestic Violence,2285
+2020,West Bengal,Murder,2344
+2020,West Bengal,Rape,2671
+2020,West Bengal,Theft,4125
+2020,West Bengal,Robbery,2820
+2020,West Bengal,Assault,2363
+2020,West Bengal,Cyber Crime,849
+2020,West Bengal,Kidnapping,4237
+2020,West Bengal,Domestic Violence,1271
+2020,Bihar,Murder,4796
+2020,Bihar,Rape,2367
+2020,Bihar,Theft,797
+2020,Bihar,Robbery,56
+2020,Bihar,Assault,851
+2020,Bihar,Cyber Crime,1940
+2020,Bihar,Kidnapping,1449
+2020,Bihar,Domestic Violence,2473
+2021,Maharashtra,Murder,2612
+2021,Maharashtra,Rape,4787
+2021,Maharashtra,Theft,114
+2021,Maharashtra,Robbery,1596
+2021,Maharashtra,Assault,1087
+2021,Maharashtra,Cyber Crime,4914
+2021,Maharashtra,Kidnapping,2111
+2021,Maharashtra,Domestic Violence,224
+2021,Delhi,Murder,3048
+2021,Delhi,Rape,1449
+2021,Delhi,Theft,3807
+2021,Delhi,Robbery,3850
+2021,Delhi,Assault,3059
+2021,Delhi,Cyber Crime,1418
+2021,Delhi,Kidnapping,666
+2021,Delhi,Domestic Violence,1672
+2021,Uttar Pradesh,Murder,2175
+2021,Uttar Pradesh,Rape,3641
+2021,Uttar Pradesh,Theft,4691
+2021,Uttar Pradesh,Robbery,1133
+2021,Uttar Pradesh,Assault,172
+2021,Uttar Pradesh,Cyber Crime,3125
+2021,Uttar Pradesh,Kidnapping,1554
+2021,Uttar Pradesh,Domestic Violence,2020
+2021,Karnataka,Murder,1082
+2021,Karnataka,Rape,1675
+2021,Karnataka,Theft,3408
+2021,Karnataka,Robbery,3629
+2021,Karnataka,Assault,3850
+2021,Karnataka,Cyber Crime,1416
+2021,Karnataka,Kidnapping,4367
+2021,Karnataka,Domestic Violence,4471
+2021,Tamil Nadu,Murder,927
+2021,Tamil Nadu,Rape,3749
+2021,Tamil Nadu,Theft,1968
+2021,Tamil Nadu,Robbery,155
+2021,Tamil Nadu,Assault,631
+2021,Tamil Nadu,Cyber Crime,2752
+2021,Tamil Nadu,Kidnapping,3988
+2021,Tamil Nadu,Domestic Violence,2559
+2021,Gujarat,Murder,3439
+2021,Gujarat,Rape,4479
+2021,Gujarat,Theft,2505
+2021,Gujarat,Robbery,1749
+2021,Gujarat,Assault,4825
+2021,Gujarat,Cyber Crime,2044
+2021,Gujarat,Kidnapping,4386
+2021,Gujarat,Domestic Violence,2921
+2021,Rajasthan,Murder,1730
+2021,Rajasthan,Rape,1408
+2021,Rajasthan,Theft,1902
+2021,Rajasthan,Robbery,2332
+2021,Rajasthan,Assault,4052
+2021,Rajasthan,Cyber Crime,2449
+2021,Rajasthan,Kidnapping,4147
+2021,Rajasthan,Domestic Violence,2581
+2021,Madhya Pradesh,Murder,2344
+2021,Madhya Pradesh,Rape,4250
+2021,Madhya Pradesh,Theft,4992
+2021,Madhya Pradesh,Robbery,68
+2021,Madhya Pradesh,Assault,1532
+2021,Madhya Pradesh,Cyber Crime,2737
+2021,Madhya Pradesh,Kidnapping,803
+2021,Madhya Pradesh,Domestic Violence,760
+2021,West Bengal,Murder,4346
+2021,West Bengal,Rape,3228
+2021,West Bengal,Theft,4139
+2021,West Bengal,Robbery,4426
+2021,West Bengal,Assault,4670
+2021,West Bengal,Cyber Crime,2952
+2021,West Bengal,Kidnapping,3071
+2021,West Bengal,Domestic Violence,2271
+2021,Bihar,Murder,274
+2021,Bihar,Rape,3365
+2021,Bihar,Theft,359
+2021,Bihar,Robbery,3174
+2021,Bihar,Assault,2348
+2021,Bihar,Cyber Crime,4465
+2021,Bihar,Kidnapping,4803
+2021,Bihar,Domestic Violence,294
+2022,Maharashtra,Murder,2013
+2022,Maharashtra,Rape,970
+2022,Maharashtra,Theft,4424
+2022,Maharashtra,Robbery,4185
+2022,Maharashtra,Assault,3517
+2022,Maharashtra,Cyber Crime,449
+2022,Maharashtra,Kidnapping,273
+2022,Maharashtra,Domestic Violence,2619
+2022,Delhi,Murder,699
+2022,Delhi,Rape,4647
+2022,Delhi,Theft,2277
+2022,Delhi,Robbery,524
+2022,Delhi,Assault,3992
+2022,Delhi,Cyber Crime,124
+2022,Delhi,Kidnapping,1822
+2022,Delhi,Domestic Violence,3927
+2022,Uttar Pradesh,Murder,947
+2022,Uttar Pradesh,Rape,2325
+2022,Uttar Pradesh,Theft,3994
+2022,Uttar Pradesh,Robbery,2574
+2022,Uttar Pradesh,Assault,1805
+2022,Uttar Pradesh,Cyber Crime,529
+2022,Uttar Pradesh,Kidnapping,4546
+2022,Uttar Pradesh,Domestic Violence,2085
+2022,Karnataka,Murder,2942
+2022,Karnataka,Rape,1147
+2022,Karnataka,Theft,3108
+2022,Karnataka,Robbery,4860
+2022,Karnataka,Assault,4881
+2022,Karnataka,Cyber Crime,4755
+2022,Karnataka,Kidnapping,2395
+2022,Karnataka,Domestic Violence,231
+2022,Tamil Nadu,Murder,2062
+2022,Tamil Nadu,Rape,3946
+2022,Tamil Nadu,Theft,237
+2022,Tamil Nadu,Robbery,1323
+2022,Tamil Nadu,Assault,4631
+2022,Tamil Nadu,Cyber Crime,1368
+2022,Tamil Nadu,Kidnapping,4861
+2022,Tamil Nadu,Domestic Violence,757
+2022,Gujarat,Murder,1510
+2022,Gujarat,Rape,2442
+2022,Gujarat,Theft,2612
+2022,Gujarat,Robbery,2874
+2022,Gujarat,Assault,310
+2022,Gujarat,Cyber Crime,413
+2022,Gujarat,Kidnapping,1152
+2022,Gujarat,Domestic Violence,4633
+2022,Rajasthan,Murder,1160
+2022,Rajasthan,Rape,4056
+2022,Rajasthan,Theft,3951
+2022,Rajasthan,Robbery,491
+2022,Rajasthan,Assault,2707
+2022,Rajasthan,Cyber Crime,889
+2022,Rajasthan,Kidnapping,2641
+2022,Rajasthan,Domestic Violence,3672
+2022,Madhya Pradesh,Murder,1221
+2022,Madhya Pradesh,Rape,2253
+2022,Madhya Pradesh,Theft,4560
+2022,Madhya Pradesh,Robbery,4031
+2022,Madhya Pradesh,Assault,2220
+2022,Madhya Pradesh,Cyber Crime,850
+2022,Madhya Pradesh,Kidnapping,3905
+2022,Madhya Pradesh,Domestic Violence,4743
+2022,West Bengal,Murder,1281
+2022,West Bengal,Rape,4641
+2022,West Bengal,Theft,3127
+2022,West Bengal,Robbery,3614
+2022,West Bengal,Assault,4910
+2022,West Bengal,Cyber Crime,4236
+2022,West Bengal,Kidnapping,803
+2022,West Bengal,Domestic Violence,109
+2022,Bihar,Murder,1163
+2022,Bihar,Rape,488
+2022,Bihar,Theft,2244
+2022,Bihar,Robbery,4464
+2022,Bihar,Assault,2710
+2022,Bihar,Cyber Crime,1304
+2022,Bihar,Kidnapping,1484
+2022,Bihar,Domestic Violence,108
+2023,Maharashtra,Murder,2967
+2023,Maharashtra,Rape,2244
+2023,Maharashtra,Theft,2027
+2023,Maharashtra,Robbery,4156
+2023,Maharashtra,Assault,2679
+2023,Maharashtra,Cyber Crime,2459
+2023,Maharashtra,Kidnapping,3501
+2023,Maharashtra,Domestic Violence,1876
+2023,Delhi,Murder,3013
+2023,Delhi,Rape,4952
+2023,Delhi,Theft,2769
+2023,Delhi,Robbery,1224
+2023,Delhi,Assault,4443
+2023,Delhi,Cyber Crime,2304
+2023,Delhi,Kidnapping,3494
+2023,Delhi,Domestic Violence,1667
+2023,Uttar Pradesh,Murder,4998
+2023,Uttar Pradesh,Rape,2778
+2023,Uttar Pradesh,Theft,2906
+2023,Uttar Pradesh,Robbery,471
+2023,Uttar Pradesh,Assault,2501
+2023,Uttar Pradesh,Cyber Crime,4610
+2023,Uttar Pradesh,Kidnapping,1192
+2023,Uttar Pradesh,Domestic Violence,3677
+2023,Karnataka,Murder,4660
+2023,Karnataka,Rape,581
+2023,Karnataka,Theft,573
+2023,Karnataka,Robbery,685
+2023,Karnataka,Assault,3400
+2023,Karnataka,Cyber Crime,1222
+2023,Karnataka,Kidnapping,2883
+2023,Karnataka,Domestic Violence,4323
+2023,Tamil Nadu,Murder,95
+2023,Tamil Nadu,Rape,752
+2023,Tamil Nadu,Theft,2645
+2023,Tamil Nadu,Robbery,1636
+2023,Tamil Nadu,Assault,2233
+2023,Tamil Nadu,Cyber Crime,1753
+2023,Tamil Nadu,Kidnapping,442
+2023,Tamil Nadu,Domestic Violence,2539
+2023,Gujarat,Murder,568
+2023,Gujarat,Rape,996
+2023,Gujarat,Theft,313
+2023,Gujarat,Robbery,4759
+2023,Gujarat,Assault,2100
+2023,Gujarat,Cyber Crime,1426
+2023,Gujarat,Kidnapping,3563
+2023,Gujarat,Domestic Violence,2833
+2023,Rajasthan,Murder,567
+2023,Rajasthan,Rape,1789
+2023,Rajasthan,Theft,3758
+2023,Rajasthan,Robbery,4515
+2023,Rajasthan,Assault,959
+2023,Rajasthan,Cyber Crime,3633
+2023,Rajasthan,Kidnapping,4162
+2023,Rajasthan,Domestic Violence,1655
+2023,Madhya Pradesh,Murder,543
+2023,Madhya Pradesh,Rape,1168
+2023,Madhya Pradesh,Theft,3172
+2023,Madhya Pradesh,Robbery,3252
+2023,Madhya Pradesh,Assault,2147
+2023,Madhya Pradesh,Cyber Crime,347
+2023,Madhya Pradesh,Kidnapping,2096
+2023,Madhya Pradesh,Domestic Violence,1279
+2023,West Bengal,Murder,3063
+2023,West Bengal,Rape,1372
+2023,West Bengal,Theft,3348
+2023,West Bengal,Robbery,4568
+2023,West Bengal,Assault,611
+2023,West Bengal,Cyber Crime,1403
+2023,West Bengal,Kidnapping,2285
+2023,West Bengal,Domestic Violence,4634
+2023,Bihar,Murder,656
+2023,Bihar,Rape,1050
+2023,Bihar,Theft,3602
+2023,Bihar,Robbery,1653
+2023,Bihar,Assault,3141
+2023,Bihar,Cyber Crime,2837
+2023,Bihar,Kidnapping,4932
+2023,Bihar,Domestic Violence,4659
+2024,Maharashtra,Murder,158
+2024,Maharashtra,Rape,2544
+2024,Maharashtra,Theft,1272
+2024,Maharashtra,Robbery,749
+2024,Maharashtra,Assault,2466
+2024,Maharashtra,Cyber Crime,916
+2024,Maharashtra,Kidnapping,1334
+2024,Maharashtra,Domestic Violence,4973
+2024,Delhi,Murder,4814
+2024,Delhi,Rape,3036
+2024,Delhi,Theft,2100
+2024,Delhi,Robbery,1531
+2024,Delhi,Assault,506
+2024,Delhi,Cyber Crime,3001
+2024,Delhi,Kidnapping,4813
+2024,Delhi,Domestic Violence,837
+2024,Uttar Pradesh,Murder,1335
+2024,Uttar Pradesh,Rape,3706
+2024,Uttar Pradesh,Theft,3300
+2024,Uttar Pradesh,Robbery,4367
+2024,Uttar Pradesh,Assault,2010
+2024,Uttar Pradesh,Cyber Crime,4508
+2024,Uttar Pradesh,Kidnapping,1752
+2024,Uttar Pradesh,Domestic Violence,1326
+2024,Karnataka,Murder,2827
+2024,Karnataka,Rape,3471
+2024,Karnataka,Theft,2730
+2024,Karnataka,Robbery,1275
+2024,Karnataka,Assault,2843
+2024,Karnataka,Cyber Crime,1551
+2024,Karnataka,Kidnapping,3913
+2024,Karnataka,Domestic Violence,2347
+2024,Tamil Nadu,Murder,106
+2024,Tamil Nadu,Rape,2114
+2024,Tamil Nadu,Theft,4134
+2024,Tamil Nadu,Robbery,342
+2024,Tamil Nadu,Assault,149
+2024,Tamil Nadu,Cyber Crime,149
+2024,Tamil Nadu,Kidnapping,775
+2024,Tamil Nadu,Domestic Violence,827
+2024,Gujarat,Murder,1466
+2024,Gujarat,Rape,361
+2024,Gujarat,Theft,4945
+2024,Gujarat,Robbery,4952
+2024,Gujarat,Assault,2138
+2024,Gujarat,Cyber Crime,241
+2024,Gujarat,Kidnapping,2713
+2024,Gujarat,Domestic Violence,744
+2024,Rajasthan,Murder,1968
+2024,Rajasthan,Rape,878
+2024,Rajasthan,Theft,2515
+2024,Rajasthan,Robbery,1562
+2024,Rajasthan,Assault,2901
+2024,Rajasthan,Cyber Crime,4581
+2024,Rajasthan,Kidnapping,3873
+2024,Rajasthan,Domestic Violence,3166
+2024,Madhya Pradesh,Murder,2103
+2024,Madhya Pradesh,Rape,1911
+2024,Madhya Pradesh,Theft,1496
+2024,Madhya Pradesh,Robbery,1130
+2024,Madhya Pradesh,Assault,4715
+2024,Madhya Pradesh,Cyber Crime,4507
+2024,Madhya Pradesh,Kidnapping,175
+2024,Madhya Pradesh,Domestic Violence,4392
+2024,West Bengal,Murder,3272
+2024,West Bengal,Rape,3501
+2024,West Bengal,Theft,4105
+2024,West Bengal,Robbery,2777
+2024,West Bengal,Assault,4527
+2024,West Bengal,Cyber Crime,319
+2024,West Bengal,Kidnapping,1862
+2024,West Bengal,Domestic Violence,1005
+2024,Bihar,Murder,256
+2024,Bihar,Rape,2444
+2024,Bihar,Theft,3808
+2024,Bihar,Robbery,3598
+2024,Bihar,Assault,2081
+2024,Bihar,Cyber Crime,451
+2024,Bihar,Kidnapping,3646
+2024,Bihar,Domestic Violence,4081
