@@ -1,48 +1,89 @@
-# crime-data-analysis
-A web-based Crime Data Visualization Dashboard built using HTML, CSS, JavaScript, Python, Pandas, and interactive charts to analyze crime patterns and trends.
-=======
-# Crime Data Analysis & Prediction Project
+# Crime Data Analysis and Prediction
 
-##  Project Overview
-This project analyzes crime data across different Indian states and years.
-It also includes a simple machine learning model to predict crime counts
-based on year, state, and crime type.
+## 📌 Project Overview
+This project is a **Crime Data Analysis and Prediction System** developed using Python and Machine Learning.  
+It analyzes crime patterns across different Indian states and predicts future crime counts based on user-selected inputs.
 
-The dataset used is synthetically generated for academic purposes.
+The project also includes an **interactive web dashboard** built using **Streamlit** for real-time prediction and visualization.
 
 ---
 
-##  Technologies Used
+## 📊 Features
+- State-wise and crime-type-wise analysis
+- Year-wise crime trend visualization
+- Comparison of different crime categories
+- Future crime prediction using a Machine Learning model
+- Interactive web interface using Streamlit
+
+---
+
+## 🧠 Technologies Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Scikit-learn
-- JupyterLab
+- Streamlit
 
 ---
 
+## 🤖 Machine Learning Model
+- Model Used: **Linear Regression**
+- Type: Supervised Learning
+- Output: Predicted Crime Count (Numerical)
+
+The trained model is saved and reused for predictions without retraining.
+
+---
+
+## 🌐 Web Application (Streamlit)
+The project includes a Streamlit-based web application that allows users to:
+- Select State
+- Select Crime Type (or All Crimes Combined)
+- Select Year (including future years)
+- View predicted crime count
+- View crime trend and comparison graphs
+
+---
+
+## 📁 Dataset Information
+- The dataset used in this project is **synthetically generated** using Python and Pandas.
+- It simulates year-wise crime data for educational and analytical purposes.
+- No real or government crime data is used.
+
+---
+
+## 📂 Project Structure
+
+
 ##  Project Structure
-Crime_Data_Analysis/
+crime-data-analysis/
+│
+├── app/
+│ └── app.py # Streamlit web application
 │
 ├── data/
-│   ├── raw/              # Original dataset
-│   └── processed/        # Cleaned dataset
-│
-├── notebooks/
-│   ├── 00_generate_data.ipynb
-│   ├── 02_data_loading.ipynb
-│   ├── 03_eda_visualization.ipynb
-│   └── 04_crime_prediction_model.ipynb
+│ ├── raw/
+│ └── processed/
 │
 ├── models/
-│   └── crime_prediction_model.pkl
+│ └── crime_prediction_model.pkl
 │
-├── outputs/
-├── app/
-├── README.md
-└── requirements.txt
+├── notebooks/
+│ └── Jupyter notebooks for analysis and model training
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Activate Environment
+```bash
+conda activate crime_env
+streamlit run app/app.py
 
 ---
 
@@ -62,13 +103,16 @@ Note: Since the dataset is synthetically generated, model accuracy is not the pr
 
 ---
 
-##  Academic Note
-This project is created as a **college mini project** to demonstrate:
-- Data analysis workflow
-- Visualization
-- Basic machine learning pipeline
-- Model saving and reuse
+🎓 Academic Note
+This project is developed as a college mini-project to demonstrate:
+Data analysis
+Machine learning workflow
+Visualization
+Deployment using Streamlit
 
+✅ Conclusion
+
+The project successfully demonstrates an end-to-end data analytics and machine learning pipeline with an interactive web-based interface.
 ---
 
 ## 👤 Author
